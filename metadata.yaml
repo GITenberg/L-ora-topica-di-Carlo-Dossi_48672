@@ -1,4 +1,8 @@
 _repo: L-ora-topica-di-Carlo-Dossi_48672
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48672-h/images/cover.jpg
 creator:
   author:
     agent_name: Lucini, Gian Pietro
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7540
     wikipedia: http://it.wikipedia.org/wiki/Gian_Pietro_Lucini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48672#L-ora-topica-di-Carlo-Dossi
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2015-04-09'
 gutenberg_type: Text
